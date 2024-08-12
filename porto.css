@@ -1,0 +1,21 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #000000;
+    -webkit-text-fill-color: #ffffff;
+}
+
+#about {
+    background-color: #13b931;
+    -webkit-text-fill-color: white;
+}
+
+#projects {
+    background-color: #000000;
+    
+}
+
+
+.section {
+    padding-top: 5rem;
+}
+
